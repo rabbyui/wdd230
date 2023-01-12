@@ -3,7 +3,7 @@
 }
 
 html {
-    background-color: lightblue;
+    background-color: rgb(67, 106, 190);
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
