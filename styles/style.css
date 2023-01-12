@@ -71,7 +71,7 @@ ul li {
 }
 
 a {
-    color: seagreen;
+    color: rgb(42, 22, 223);
 }
 
 a:active {
@@ -95,7 +95,7 @@ footer a {
 }
 
 footer a:hover {
-    color: lightgreen;
+    color: rgb(42, 22, 223);
     text-shadow: 1px 1px 10px lightblue;
 }
 
@@ -144,6 +144,6 @@ footer a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: seagreen;
+    background-color: rgb(42, 22, 223);
     border-radius: 5px;
 }
