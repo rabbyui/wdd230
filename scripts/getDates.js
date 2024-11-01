@@ -6,3 +6,5 @@ document.getElementById("year").textContent = currentYear;
 
 // Set the last modified date in the second paragraph
 document.getElementById("lastModified").textContent = document.lastModified;
+
+
